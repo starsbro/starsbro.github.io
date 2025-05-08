@@ -1,2 +1,1 @@
-# xingxingxiao.github.io
-Xingxing Xiao's personal webpage
+# Xingxing Xiao's personal webpage
